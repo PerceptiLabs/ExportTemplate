@@ -4,7 +4,7 @@
 
 This README.md file will be submitted to GitHub along with your model, so you should customize it to describe your model to other community members who may wish to use your model. Below, we have provided some suggestions on the type of content you may want to include.
 
-**Note: ** For information on formatting README.md files see: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet. 
+**Note:** For information on formatting README.md files see: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet. 
 
 Enter a description of your model here. Be sure to provide as much detail as possible including: 
 
